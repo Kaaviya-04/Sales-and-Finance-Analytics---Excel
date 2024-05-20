@@ -16,7 +16,7 @@
   
     **2.** Create Profit and Loss (P&L) reports by [Markets](https://github.com/Kaaviya-04/Sales-and-Finance-Analytics---Excel/blob/50f263a5fa43809bc0781e1ac8d0f23dc1d1ed07/P%26L%20Statement%20by%20Markets.pdf)
   
-    **3.** Create Profit and Loss (P&L) reports by [Months](
+    **3.** Create Profit and Loss (P&L) reports by [Months](https://github.com/Kaaviya-04/Sales-and-Finance-Analytics---Excel/blob/9b7dac6357b43a567c6d13dec6ac3e8cb68bb44f/P%26L%20Statement%20by%20Months.pdf)
 - **Intent of finance analytics:** Provide data-driven insights to support strategic business decisions and ensures that decisions are based on accurate and comprehensive financial analysis leading to better long-term outcomes.
 - **Importance of analyzing Finance data:** Analyzing finance data is essential for managing and optimizing financial performance. It enables businesses to make informed decisions, manage risks effectively and ensure sustainable growth. By leveraging finance data analysis companies can achieve greater financial stability, efficiency and profitability.
 - **Role of reports:** Shows the company's profitability and financial performance. Provide accurate and timely financial information to support strategic and operational decisions.
