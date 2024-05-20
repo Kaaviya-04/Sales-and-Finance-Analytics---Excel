@@ -12,4 +12,25 @@
 ## Finance Report : 
 - **Project objective:**
 
-    **1.** Create Profit and Loss (P&L) reports by [Fiscal Year](
+    **1.** Create Profit and Loss (P&L) reports by [Fiscal Year](https://github.com/Kaaviya-04/Sales-and-Finance-Analytics---Excel/blob/f7a2b94b1a76a5e88fbe53f06f5b23bd8a9bc024/P%26L%20Statement%20by%20Fiscal%20Year.pdf)
+  
+    **2.** Create Profit and Loss (P&L) reports by [Markets](
+  
+    **3.** Create Profit and Loss (P&L) reports by [Months](
+- **Intent of finance analytics:** Provide data-driven insights to support strategic business decisions and ensures that decisions are based on accurate and comprehensive financial analysis leading to better long-term outcomes.
+- **Importance of analyzing Finance data:** Analyzing finance data is essential for managing and optimizing financial performance. It enables businesses to make informed decisions, manage risks effectively and ensure sustainable growth. By leveraging finance data analysis companies can achieve greater financial stability, efficiency and profitability.
+- **Role of reports:** Shows the company's profitability and financial performance. Provide accurate and timely financial information to support strategic and operational decisions.
+## Technical Skills:
+- Expertise in ETL (Extract, Transform, Load).
+- Proficiency in creating a date table with Power Query.
+- Able to calculate quarters and months in the fiscal year.
+- Establishing data model relationships with Power Pivot.
+- Ability to integrate new data into an existing data model.
+- DAX is used to generate calculated columns.
+## Soft Skills:
+- Break down complex problems and interpret data logically.
+- Ensure accuracy and precision in data analysis and reporting.
+- Convey complex data insights clearly to non-technical stakeholders.
+- Understand and prioritize customer needs and perspectives.
+
+  
