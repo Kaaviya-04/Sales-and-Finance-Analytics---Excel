@@ -14,7 +14,7 @@
 
     **1.** Create Profit and Loss (P&L) reports by [Fiscal Year](https://github.com/Kaaviya-04/Sales-and-Finance-Analytics---Excel/blob/f7a2b94b1a76a5e88fbe53f06f5b23bd8a9bc024/P%26L%20Statement%20by%20Fiscal%20Year.pdf)
   
-    **2.** Create Profit and Loss (P&L) reports by [Markets](
+    **2.** Create Profit and Loss (P&L) reports by [Markets](https://github.com/Kaaviya-04/Sales-and-Finance-Analytics---Excel/blob/50f263a5fa43809bc0781e1ac8d0f23dc1d1ed07/P%26L%20Statement%20by%20Markets.pdf)
   
     **3.** Create Profit and Loss (P&L) reports by [Months](
 - **Intent of finance analytics:** Provide data-driven insights to support strategic business decisions and ensures that decisions are based on accurate and comprehensive financial analysis leading to better long-term outcomes.
